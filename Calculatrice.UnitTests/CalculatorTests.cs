@@ -46,12 +46,6 @@ public class UnitTest1
     }
 
     [TestMethod]
-    public void Divide_WithSecondParameterAsZero_ReturnsDivision()
-    {
-        Assert.AreEqual(2, _calculator.Divide(4, 0));
-    }
-
-    [TestMethod]
     public void Add_WithTwoNumbers_ReturnsAddition()
     {
         var calculator = new Calculator();
