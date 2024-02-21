@@ -1,0 +1,15 @@
+/Users/celine/Desktop/DEV/DFS/DevOps/Exercices/Calculatrice/Calculatrice/Calculatrice/obj/Debug/net7.0/Calculatrice.csproj.AssemblyReference.cache
+/Users/celine/Desktop/DEV/DFS/DevOps/Exercices/Calculatrice/Calculatrice/Calculatrice/obj/Debug/net7.0/Calculatrice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/celine/Desktop/DEV/DFS/DevOps/Exercices/Calculatrice/Calculatrice/Calculatrice/obj/Debug/net7.0/Calculatrice.AssemblyInfoInputs.cache
+/Users/celine/Desktop/DEV/DFS/DevOps/Exercices/Calculatrice/Calculatrice/Calculatrice/obj/Debug/net7.0/Calculatrice.AssemblyInfo.cs
+/Users/celine/Desktop/DEV/DFS/DevOps/Exercices/Calculatrice/Calculatrice/Calculatrice/obj/Debug/net7.0/Calculatrice.csproj.CoreCompileInputs.cache
+/Users/celine/Desktop/DEV/DFS/DevOps/Exercices/Calculatrice/Calculatrice/Calculatrice/bin/Debug/net7.0/Calculatrice
+/Users/celine/Desktop/DEV/DFS/DevOps/Exercices/Calculatrice/Calculatrice/Calculatrice/bin/Debug/net7.0/Calculatrice.deps.json
+/Users/celine/Desktop/DEV/DFS/DevOps/Exercices/Calculatrice/Calculatrice/Calculatrice/bin/Debug/net7.0/Calculatrice.runtimeconfig.json
+/Users/celine/Desktop/DEV/DFS/DevOps/Exercices/Calculatrice/Calculatrice/Calculatrice/bin/Debug/net7.0/Calculatrice.dll
+/Users/celine/Desktop/DEV/DFS/DevOps/Exercices/Calculatrice/Calculatrice/Calculatrice/bin/Debug/net7.0/Calculatrice.pdb
+/Users/celine/Desktop/DEV/DFS/DevOps/Exercices/Calculatrice/Calculatrice/Calculatrice/obj/Debug/net7.0/Calculatrice.dll
+/Users/celine/Desktop/DEV/DFS/DevOps/Exercices/Calculatrice/Calculatrice/Calculatrice/obj/Debug/net7.0/refint/Calculatrice.dll
+/Users/celine/Desktop/DEV/DFS/DevOps/Exercices/Calculatrice/Calculatrice/Calculatrice/obj/Debug/net7.0/Calculatrice.pdb
+/Users/celine/Desktop/DEV/DFS/DevOps/Exercices/Calculatrice/Calculatrice/Calculatrice/obj/Debug/net7.0/Calculatrice.genruntimeconfig.cache
+/Users/celine/Desktop/DEV/DFS/DevOps/Exercices/Calculatrice/Calculatrice/Calculatrice/obj/Debug/net7.0/ref/Calculatrice.dll
