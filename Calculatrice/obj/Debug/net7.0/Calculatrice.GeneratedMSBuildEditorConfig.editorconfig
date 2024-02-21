@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Calculatrice
-build_property.ProjectDir = /Users/celine/Desktop/DEV/DFS/DevOps/Exercices/Calculatrice/Calculatrice/Calculatrice/
+build_property.ProjectDir = /Users/celine/Desktop/DEV/DFS/sample_dotnet/Calculatrice/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

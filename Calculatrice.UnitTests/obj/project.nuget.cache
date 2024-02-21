@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FAvjME1p1zDYbtW+xAvNQRX4Z8XoI7QKozxAfl2PvQn45V7BakQtHxNvrZLwEoMf53EDEqisb2RWvG2EnQJm9A==",
+  "dgSpecHash": "E6cD74z6qZ22WulO2mdj4iCsSEkH7NwC1X0TZPw4F2Rc64U+CMPhgYSrVt66A8dHyamQ2OZJr3AolpzU7KuGUQ==",
   "success": true,
-  "projectFilePath": "/Users/celine/Desktop/DEV/DFS/DevOps/Exercices/Calculatrice/Calculatrice/Calculatrice.UnitTests/Calculatrice.UnitTests.csproj",
+  "projectFilePath": "/Users/celine/Desktop/DEV/DFS/sample_dotnet/Calculatrice.UnitTests/Calculatrice.UnitTests.csproj",
   "expectedPackageFiles": [
     "/Users/celine/.nuget/packages/coverlet.collector/3.2.0/coverlet.collector.3.2.0.nupkg.sha512",
     "/Users/celine/.nuget/packages/microsoft.codecoverage/17.5.0/microsoft.codecoverage.17.5.0.nupkg.sha512",
